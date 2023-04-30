@@ -13,6 +13,9 @@ public class ClassA {
 	private void method4() {
 		System.out.println("4");
 	}
+
+	
+
 	private void method5() {
 		System.out.println("5");
 	}
@@ -22,7 +25,9 @@ public class ClassA {
 	private void method7() {
 		System.out.println("7");
 	}
+
 	private void method8() {
 		System.out.println("8");
 	}
+
 }
